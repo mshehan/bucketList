@@ -1,8 +1,8 @@
 # bucketList
 Playing around with backend. Learning how to add different backend functionality using flask
 I was able to create this using flask and bootstrap.
-<h1>Home Page>
-<img src="./photos/home.png">
+<h1>Home Page</h1>
+<img src="./photos/homepage.png">
 <p>the home page is meant to display the items that a user will post to their bucket list after logging in</p>
 <h1>sign up</h1>
 <img src="./photos/signup.png">
